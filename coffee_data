@@ -30,7 +30,7 @@ const coffeeMenu = [
     }, 
     {
         name: "macchiato",
-        price: "6",
+        price: 6,
         seasonal: false,
     },
     {
